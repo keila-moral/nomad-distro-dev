@@ -1,3 +1,12 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/pynxtools"]
+	path = packages/pynxtools
+	url = https://github.com/keila-moral/pynxtools
+[submodule "packages/pynxtools-xps"]
+	path = packages/pynxtools-xps
+	url = https://github.com/keila-moral/pynxtools-xps
+[submodule "packages/nomad-docs"]
+	path = packages/nomad-docs
+	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
