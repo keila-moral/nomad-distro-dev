@@ -10,3 +10,33 @@
 [submodule "packages/nomad-docs"]
 	path = packages/nomad-docs
 	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
+[submodule "packages/pynxtools-ellips"]
+	path = packages/pynxtools-ellips
+	url = https://github.com/keila-moral/pynxtools-ellips
+[submodule "packages/pynxtools-em"]
+	path = packages/pynxtools-em
+	url = https://github.com/keila-moral/pynxtools-em
+[submodule "packages/pynxtools-igor"]
+	path = packages/pynxtools-igor
+	url = https://github.com/keila-moral/pynxtools-igor
+[submodule "packages/pynxtools-mpes"]
+	path = packages/pynxtools-mpes
+	url = https://github.com/keila-moral/pynxtools-mpes
+[submodule "packages/pynxtools-raman"]
+	path = packages/pynxtools-raman
+	url = https://github.com/keila-moral/pynxtools-raman
+[submodule "packages/pynxtools-spm"]
+	path = packages/pynxtools-spm
+	url = https://github.com/keila-moral/pynxtools-spm
+[submodule "packages/pynxtools-xas"]
+	path = packages/pynxtools-xas
+	url = https://github.com/keila-moral/pynxtools-xas
+[submodule "packages/pynxtools-xrd"]
+	path = packages/pynxtools-xrd
+	url = https://github.com/keila-moral/pynxtools-xrd
+[submodule "packages/readers-xrd"]
+	path = packages/readers-xrd
+	url = https://github.com/keila-moral/readers-xrd
+[submodule "packages/pynxtools-microstructure"]
+	path = packages/pynxtools-microstructure
+	url = https://github.com/FAIRmat-NFDI/pynxtools-microstructure
