@@ -39,4 +39,4 @@
 	url = https://github.com/keila-moral/readers-xrd
 [submodule "packages/pynxtools-microstructure"]
 	path = packages/pynxtools-microstructure
-	url = https://github.com/FAIRmat-NFDI/pynxtools-microstructure
+	url = https://github.com/keila-moral/pynxtools-microstructure
