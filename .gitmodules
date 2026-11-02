@@ -3,40 +3,40 @@
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
 [submodule "packages/pynxtools"]
 	path = packages/pynxtools
-	url = https://github.com/keila-moral/pynxtools
+	url = https://github.com/FAIRmat-NFDI/pynxtools.git
 [submodule "packages/pynxtools-xps"]
 	path = packages/pynxtools-xps
-	url = https://github.com/keila-moral/pynxtools-xps
+	url = https://github.com/FAIRmat-NFDI/pynxtools-xps.git
 [submodule "packages/nomad-docs"]
 	path = packages/nomad-docs
 	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
 [submodule "packages/pynxtools-ellips"]
 	path = packages/pynxtools-ellips
-	url = https://github.com/keila-moral/pynxtools-ellips
+	url = https://github.com/FAIRmat-NFDI/pynxtools-ellips.git
 [submodule "packages/pynxtools-em"]
 	path = packages/pynxtools-em
-	url = https://github.com/keila-moral/pynxtools-em
+	url = https://github.com/FAIRmat-NFDI/pynxtools-em.git
 [submodule "packages/pynxtools-igor"]
 	path = packages/pynxtools-igor
-	url = https://github.com/keila-moral/pynxtools-igor
+	url = https://github.com/FAIRmat-NFDI/pynxtools-igor.git
 [submodule "packages/pynxtools-mpes"]
 	path = packages/pynxtools-mpes
-	url = https://github.com/keila-moral/pynxtools-mpes
+	url = https://github.com/FAIRmat-NFDI/pynxtools-mpes.git
 [submodule "packages/pynxtools-raman"]
 	path = packages/pynxtools-raman
-	url = https://github.com/keila-moral/pynxtools-raman
+	url = https://github.com/FAIRmat-NFDI/pynxtools-raman.git
 [submodule "packages/pynxtools-spm"]
 	path = packages/pynxtools-spm
-	url = https://github.com/keila-moral/pynxtools-spm
+	url = https://github.com/FAIRmat-NFDI/pynxtools-spm.git
 [submodule "packages/pynxtools-xas"]
 	path = packages/pynxtools-xas
-	url = https://github.com/keila-moral/pynxtools-xas
+	url = https://github.com/FAIRmat-NFDI/pynxtools-xas.git
 [submodule "packages/pynxtools-xrd"]
 	path = packages/pynxtools-xrd
-	url = https://github.com/keila-moral/pynxtools-xrd
+	url = https://github.com/FAIRmat-NFDI/pynxtools-xrd.git
 [submodule "packages/readers-xrd"]
 	path = packages/readers-xrd
-	url = https://github.com/keila-moral/readers-xrd
+	url = https://github.com/FAIRmat-NFDI/readers-xrd.git
 [submodule "packages/pynxtools-microstructure"]
 	path = packages/pynxtools-microstructure
-	url = https://github.com/keila-moral/pynxtools-microstructure
+	url = https://github.com/FAIRmat-NFDI/pynxtools-microstructure.git
